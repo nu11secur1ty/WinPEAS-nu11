@@ -18,6 +18,7 @@ LpeChecker
 
 ### Custom checks:
 ```
+.\winPEAS.exe lpe #nu11secur1ty module
 .\WinPEAS.exe systeminfo userinfo servicesinfo windowsvuln > result.txt
 .\WinPEAS.exe systeminfo > result.txt
 .\WinPEAS.exe systeminfo userinfo > result.txt
