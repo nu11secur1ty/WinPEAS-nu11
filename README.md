@@ -7,6 +7,8 @@ LpeChecker
 ### Custom checks:
 ```
 .\WinPEAS.exe systeminfo userinfo servicesinfo windowsvuln > result.txt
+.\WinPEAS.exe systeminfo > result.txt
+.\WinPEAS.exe systeminfo userinfo > result.txt
 ```
 
 ![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
