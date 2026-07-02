@@ -2,7 +2,7 @@
 ### with nu11secur1ty
 - Modules by nu11secur1ty:
 ```
-- LpeChecker
+LpeChecker
 ```
 ![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
 
