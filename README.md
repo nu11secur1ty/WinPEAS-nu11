@@ -1,6 +1,6 @@
 # PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation
 ### with nu11secur1ty
-- [Modules by nu11secur1ty]:(https://github.com/nu11secur1ty/WinPEAS-nu11/tree/main/winPEAS/winPEASexe/winPEAS/Checks)
+- [Modules by nu11secur1ty](https://github.com/nu11secur1ty/WinPEAS-nu11/tree/main/winPEAS/winPEASexe/winPEAS/Checks)
 ```
 LpeChecker
 ```
