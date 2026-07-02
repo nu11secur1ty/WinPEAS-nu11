@@ -4,6 +4,18 @@
 ```
 LpeChecker
 ```
+
+![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
+
+![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
+
+## Linux Privesc official course to master LinPEAS
+
+**Check <https://hacktricks-training.com/courses/lhe/> to learn tens of linux privesc techniques and master LinPEAS**
+
+# Basic Tutorial
+[![Tutorial](https://img.youtube.com/vi/2Ey1WQXNp3w/0.jpg)](https://www.youtube.com/watch?v=9_fJv_weLU0&list=PL9fPq3eQfaaDxjpXaDYApfVA_IB8T14w7)
+
 ### Custom checks:
 ```
 .\WinPEAS.exe systeminfo userinfo servicesinfo windowsvuln > result.txt
@@ -29,18 +41,6 @@ LpeChecker
 .\winPEAS.exe networkinfo windowscreds
 .\winPEAS.exe --help
 ```
-
-![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
-
-![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
-
-## Linux Privesc official course to master LinPEAS
-
-**Check <https://hacktricks-training.com/courses/lhe/> to learn tens of linux privesc techniques and master LinPEAS**
-
-# Basic Tutorial
-[![Tutorial](https://img.youtube.com/vi/2Ey1WQXNp3w/0.jpg)](https://www.youtube.com/watch?v=9_fJv_weLU0&list=PL9fPq3eQfaaDxjpXaDYApfVA_IB8T14w7)
-
 
 Here you will find **privilege escalation tools for Windows and Linux/Unix\* and MacOS**.
 
