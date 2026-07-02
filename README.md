@@ -9,6 +9,25 @@ LpeChecker
 .\WinPEAS.exe systeminfo userinfo servicesinfo windowsvuln > result.txt
 .\WinPEAS.exe systeminfo > result.txt
 .\WinPEAS.exe systeminfo userinfo > result.txt
+.\winPEAS.exe all > winpeas_full.txt
+.\winPEAS.exe systeminfo userinfo servicesinfo > winpeas_quick.txt
+.\winPEAS.exe servicesinfo windowsvuln userinfo token > winpeas_lpe.txt
+.\winPEAS.exe fileanalysis > winpeas_passwords.txt
+.\winPEAS.exe networkinfo > winpeas_network.txt
+.\winPEAS.exe servicesinfo userinfo token windowsvuln
+.\winPEAS.exe systeminfo windowsdefender applocker
+.\winPEAS.exe windowscreds
+.\winPEAS.exe domaininfo
+.\winPEAS.exe all -disable-advanced-search > winpeas_quick_full.txt
+.\winPEAS.exe fileanalysis -disable-advanced-search
+.\winPEAS.exe all -no-color > winpeas_no_color.txt
+.\winPEAS.exe all -debug > winpeas_debug.txt
+.\winPEAS.exe systeminfo servicesinfo userinfo > winpeas_main.txt
+.\winPEAS.exe userinfo token
+.\winPEAS.exe windowscreds filesinfo
+.\winPEAS.exe servicesinfo -disable-advanced-search
+.\winPEAS.exe networkinfo windowscreds
+.\winPEAS.exe --help
 ```
 
 ![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
