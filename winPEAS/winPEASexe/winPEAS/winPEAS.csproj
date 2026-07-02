@@ -1193,11 +1193,11 @@
     <Compile Include="Checks\ActiveDirectoryInfo.cs" />
     <Compile Include="Checks\CloudInfo.cs" />
     <Compile Include="Checks\FileAnalysis.cs" />
-    <Compile Include="Checks\LpeChecks.cs" />
     <Compile Include="Checks\FilesInfo.cs" />
     <Compile Include="Checks\Globals.cs" />
     <Compile Include="Checks\ISystemCheck.cs" />
     <Compile Include="Checks\EventsInfo.cs" />
+    <Compile Include="Checks\LpeChecker.cs" />
     <Compile Include="Checks\NetworkInfo.cs" />
     <Compile Include="Checks\NetworkScanCheck.cs" />
     <Compile Include="Checks\ProcessInfo.cs" />

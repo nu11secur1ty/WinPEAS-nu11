@@ -102,6 +102,7 @@ namespace winPEAS.Checks
                 new SystemCheck("browserinfo", new BrowserInfo()),
                 new SystemCheck("filesinfo", new FilesInfo()),
                 new SystemCheck("fileanalysis", new FileAnalysis()),
+                new SystemCheck("lpe", new LpeChecker()),
             };
 
             var systemCheckAllKeys = new HashSet<string>(_systemChecks.Select(i => i.Key));

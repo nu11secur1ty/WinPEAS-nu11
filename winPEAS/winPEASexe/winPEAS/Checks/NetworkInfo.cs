@@ -42,8 +42,7 @@ namespace winPEAS.Checks
                 PrintFirewallRules,
                 PrintDNSCache,
                 PrintInternetSettings,
-                PrintInternetConnectivity,
-                PrintLpeChecker
+                PrintInternetConnectivity
             };
 
             // **Add hostname‑resolution check only when requested**
