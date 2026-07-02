@@ -4,6 +4,11 @@
 ```
 LpeChecker
 ```
+### Custom checks:
+```
+.\WinPEAS.exe systeminfo userinfo servicesinfo windowsvuln > result.txt
+```
+
 ![](https://github.com/peass-ng/PEASS-ng/raw/master/linPEAS/images/peass.png)
 
 ![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
